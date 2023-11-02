@@ -16,7 +16,7 @@ img {
     background-color: #C4BEB5;
     height: 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -24,7 +24,7 @@ img {
     background-color: #c1730e;
     height: 100px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
